@@ -29,7 +29,7 @@ jobs:
       - name: 📦Pack
         run: |
           cd datapack
-          zip ModIslandDatapack.zip *
+          zip -r ModIslandDatapack.zip *
 
       - name: 📅Get Date
         id: date
