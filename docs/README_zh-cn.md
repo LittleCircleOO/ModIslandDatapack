@@ -7,3 +7,10 @@
 该数据包通过 CC-BY-NC-SA 协议授权。
 
 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans"><img decoding="async" loading="lazy" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" width="117" height="41"></a>
+
+## 目录
+
+| Path                            | Description         |
+|---------------------------------|---------------------|
+| [datapack](../datapack)         | 存放数据包文件的目录。         |
+| [resourcepack](../resourcepack) | 存放资源包文件的目录，包含进度翻译等。 |
