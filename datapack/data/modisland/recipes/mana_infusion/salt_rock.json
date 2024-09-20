@@ -7,7 +7,7 @@
   "input": {
     "item": "seplunkery:rock_salt"
   },
-  "mana": 6000,
+  "mana": 600,
   "output": {
     "item": "expandeddelight:salt_rock"
   }
