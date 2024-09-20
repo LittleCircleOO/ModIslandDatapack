@@ -1,0 +1,14 @@
+{
+  "type": "botania:mana_infusion",
+  "catalyst": {
+    "type": "block",
+    "block": "botania:alchemy_catalyst"
+  },
+  "input": {
+    "item": "seplunkery:rock_salt"
+  },
+  "mana": 6000,
+  "output": {
+    "item": "expandeddelight:salt_rock"
+  }
+}
