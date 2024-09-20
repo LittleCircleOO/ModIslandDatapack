@@ -1,0 +1,21 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "nethersdelight"
+      ]
+    }
+  ],
+  "type": "create:haunting",
+  "ingredients": [
+    {
+      "item": "minecraft:sugar_cane"
+    }
+  ],
+  "results": [
+    {
+      "item": "nethersdelight:propelplant_cane"
+    }
+  ]
+}
