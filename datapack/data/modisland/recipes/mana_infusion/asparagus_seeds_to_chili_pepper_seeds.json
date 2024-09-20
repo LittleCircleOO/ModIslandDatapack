@@ -1,13 +1,10 @@
 {
   "fabric:load_conditions": [
     {
-      "condition": "fabric:not",
-      "value": {
-        "condition": "fabric:all_mods_loaded",
-        "values": [
-          "farmersdelight"
-        ]
-      }
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "farmersdelight"
+      ]
     }
   ],
   "type": "botania:mana_infusion",
@@ -17,10 +14,10 @@
   },
   "group": "botania:crop_cycle",
   "input": {
-    "item": "minecraft:wheat_seeds"
+    "item": "expandeddelight:asparagus_seeds"
   },
   "mana": 6000,
   "output": {
-    "item": "minecraft:beetroot_seeds"
+    "item": "expandeddelight:chili_pepper_seeds"
   }
 }
