@@ -1,0 +1,22 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "create",
+        "garnished"
+      ]
+    }
+  ],
+  "type": "create:haunting",
+  "ingredients": [
+    {
+      "item": "garnished:red_zultanite"
+    }
+  ],
+  "results": [
+    {
+      "item": "create:crimsite"
+    }
+  ]
+}
