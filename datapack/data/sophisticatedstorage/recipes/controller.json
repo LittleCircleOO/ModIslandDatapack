@@ -8,7 +8,7 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "B": {
-      "item": "sophisticatedstorage:chest"
+      "item": "minecraft:chest"
     },
     "C": {
       "item": "minecraft:comparator"
