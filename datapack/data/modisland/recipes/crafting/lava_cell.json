@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "T": {
+      "item": "create:hose_pulley"
+    },
+    "B": {
+      "item": "create:mechanical_pump"
+    },
+    "I": {
+      "tag": "c:diamonds"
+    },
+    "U": {
+      "tag": "minecraft:cauldron"
+    },
+    "V": {
+      "item": "minecraft:pointed_dripstone"
+    },
+    "X": {
+      "item": "ae2:cell_component_64k"
+    },
+    "O": {
+      "item": "create:blaze_cake"
+    }
+  },
+  "pattern": [
+    "TVB",
+    "OXO",
+    "IUI"
+  ],
+  "result": {
+    "item": "extendedae:infinity_cell",
+    "nbt": "{record:{\"#c\":\"ae2:f\",id:\"minecraft:lava\"}}"
+  },
+  "show_notification": true
+}
