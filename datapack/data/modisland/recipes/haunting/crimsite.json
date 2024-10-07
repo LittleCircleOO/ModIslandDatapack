@@ -1,10 +1,24 @@
 {
   "fabric:load_conditions": [
     {
-      "condition": "fabric:all_mods_loaded",
+      "condition": "fabric:and",
       "values": [
-        "create",
-        "garnished"
+        {
+          "condition": "fabric:all_mods_loaded",
+          "values": [
+            "create",
+            "garnished"
+          ]
+        },
+        {
+          "condition": "fabric:not",
+          "value": {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+              "garnishedstoneautomation"
+            ]
+          }
+        }
       ]
     }
   ],
